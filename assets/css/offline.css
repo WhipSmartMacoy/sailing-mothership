@@ -15,4 +15,4 @@
 .blog-item,.summary-item,.page-section[data-animation],[data-animation-role],.preFade,.preSlide,.preScale,.preClip,.preFlex{opacity:1!important;transform:none!important;clip-path:none!important}
 .sm-note{border:1px solid currentColor;padding:1em 1.2em;margin:1em 0;border-radius:4px;opacity:.85}
 .header-nav-item--folder:hover .header-nav-folder-content,
-.header-nav-item--folder:focus-within .header-nav-folder-content{display:flex!important;opacity:1!important;pointer-events:auto!important;visibility:visible!important}
+.header-nav-item--folder:focus-within .header-nav-folder-content{display:block!important;opacity:1!important;pointer-events:auto!important;visibility:visible!important}
