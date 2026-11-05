@@ -5,13 +5,13 @@ A free, self-contained copy of [sailingmothership.com](https://www.sailingmother
 ## Viewing it
 
 - **Online:** GitHub Pages serves it at `https://whipsmartmacoy.github.io/sailing-mothership/`.
-- **Offline:** download the repository (green **Code** button → **Download ZIP**), unzip it, and double-click `index.html`. No internet connection or server is needed to browse the pages.
+- **Offline:** download the repository (green **Code** button → **Download ZIP**), unzip it, and double-click `index.html`. No internet connection or server is needed to browse the pages and photos.
 
 Links to YouTube, Instagram, Facebook, PayPal and Amazon go to those sites as before, and they work whenever the viewer is online.
 
 ## Good to know
 
-- **Photos** are still loaded from Squarespace's image servers, so they need an internet connection, and they may stop loading once the Squarespace subscription ends. `image-list.txt` lists every photo. Save copies into an `images/` folder, and the pages can be switched over to use them.
+- **Photos** are stored in this repository (`images/`), so the site no longer depends on Squarespace and browses fully offline. Only the YouTube videos and outside links need an internet connection.
 - **Post text** is the original wording from each page.
 - **Videos**: each post links to its own video on YouTube.
 - **The shop** is shown as a gallery only. It can't take orders.
