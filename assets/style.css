@@ -87,3 +87,8 @@ ul.buy li{margin:.4em 0}
 .site-footer a{color:#fff}
 .site-footer .small{color:#9fb6c3}
 .social{display:flex;justify-content:center;gap:22px;margin-bottom:12px;font-weight:600}
+.lede{font-family:Georgia,serif;font-size:1.25rem;font-weight:normal;font-style:italic;color:var(--navy);margin:1.4em 0 .6em}
+.hero .lede,.hero strong{color:#fff}
+.kicker{letter-spacing:.14em;font-size:.85rem;text-transform:uppercase;opacity:.9}
+.kicker.dark{color:var(--sea);margin-top:-.4em}
+figure.qr img{max-width:220px;margin:0 auto}
