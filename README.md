@@ -4,15 +4,14 @@ A free, self-contained copy of [sailingmothership.com](https://www.sailingmother
 
 ## Viewing it
 
-- **Online:** GitHub Pages serves it at `https://whipsmartmacoy.github.io/sailing-mothership/`.
-- **Offline:** download the repository (green **Code** button → **Download ZIP**), unzip it, and double-click `index.html`. No internet connection or server is needed to browse the pages and photos.
+- **Online:** https://whipsmartmacoy.github.io/sailing-mothership/
+- **Offline:** download the repository (green **Code** button → **Download ZIP**), unzip it, and double-click `index.html`. Pages and photos work with no internet connection.
 
-Links to YouTube, Instagram, Facebook, PayPal and Amazon go to those sites as before, and they work whenever the viewer is online.
+## About this copy
 
-## Good to know
-
-- **Photos** are stored in this repository (`images/`), so the site no longer depends on Squarespace and browses fully offline. Only the YouTube videos and outside links need an internet connection.
-- **Post text** is the original wording from each page.
-- **Videos**: each post links to its own video on YouTube.
-- **The shop** is shown as a gallery only. It can't take orders.
-- **Old addresses** such as `/about` or `/sailing-hobie-tandem-island-kayak/...` redirect to the new pages, so old bookmarks keep working if the domain is pointed here.
+- Every page was saved from the live Squarespace site as the browser drew it, with the same layout, wording, photos and page addresses (for example `/about/`).
+- Photos, stylesheets and fonts are stored here, so nothing depends on Squarespace.
+- **Font:** the original used Adobe's "Roc Grotesk", which is licensed to Squarespace sites only. This copy uses the free font Archivo as a close stand-in.
+- **Videos** show a preview image and open on YouTube. Links to YouTube, Instagram, Facebook, PayPal and Amazon need an internet connection.
+- **Not included:** the newsletter sign-up, site search and shopping cart, which needed Squarespace's servers. The shop pages remain as a gallery.
+- Old links (including this copy's earlier page names) redirect to the matching page.
