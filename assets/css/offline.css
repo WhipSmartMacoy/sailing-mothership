@@ -1,6 +1,6 @@
 
 /* Additions for the offline copy */
-.section-background video{display:none!important}
+.section-background video.sm-bgvideo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 .sm-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 .embed-block-wrapper,.sqs-video-wrapper{position:relative}
 .sm-video{position:absolute;inset:0;display:block;background:#000;overflow:hidden}
